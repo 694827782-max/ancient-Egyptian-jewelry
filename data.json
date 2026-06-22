@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "黄金项链",
+        "dynasty": "中王朝",
+        "material": "黄金",
+        "craft": "锻造、打磨",
+        "source": "埃及博物馆",
+        "description": "这是一条精美的黄金项链，展示了古代埃及高超的金属工艺水平。采用精细的锻造技术制作，设计简洁优雅，代表了中王朝黄金首饰的典型风格。",
+        "images": [
+            "https://via.placeholder.com/400x400?text=GoldenNecklace1",
+            "https://via.placeholder.com/400x400?text=GoldenNecklace2"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "青金石戒指",
+        "dynasty": "新王朝",
+        "material": "青金石、黄金",
+        "craft": "镶嵌、雕刻",
+        "source": "卢浮宫",
+        "description": "采用蓝色青金石制作的戒指，镶嵌在精心打造的黄金戒托上。青金石在古埃及被视为珍贵的宝石，代表了天空和永恒。这件作品展示了埃及工匠精妙的镶嵌技艺。",
+        "images": [
+            "https://via.placeholder.com/400x400?text=BlueRing1"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "象牙手镯",
+        "dynasty": "古王朝",
+        "material": "象牙",
+        "craft": "雕刻、抛光",
+        "source": "大英博物馆",
+        "description": "由象牙精心雕刻而成的手镯，表面装饰有复杂的几何图案。这件作品展现了古埃及工匠的雕刻技术和审美。",
+        "images": [
+            "https://via.placeholder.com/400x400?text=IvoryBracelet1"
+        ]
+    }
+]
